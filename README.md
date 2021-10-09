@@ -14,8 +14,9 @@
  
 I am learning :
  </p> <a href="https://opencv.org/" target="_blank"> <img src=https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg width="80" height="55"/> </a>
- </p>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"          alt="python" width="50" height="45"/> </a>  <!--    ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C) -->
+ <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="50" height="50"/> </a>  <!--    ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C) -->
+
 
  
 You can contact me on :</p>
