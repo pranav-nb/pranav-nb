@@ -10,7 +10,7 @@
  
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="https://img.shields.io/badge/-C-black?style=flat-square&logo=C" width="50" height="45"/></a> 
  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="45"/> 
- <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" width="90" height="45"/> </a>
+ <a href="(https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="45"/> </a
  
 I am learning :
  </p> <a href="https://opencv.org/" target="_blank"> <img src=https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg width="80" height="55"/> </a>
