@@ -8,14 +8,14 @@
 🔭 I am currently working on :  
  <!--   ![](https://camo.githubusercontent.com/f650f8b07062b407c22e368cd81b39ad757cb13f1c9ac48a001a190fd38f7b73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d707974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e) -->
  
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="https://img.shields.io/badge/-C-black?style=flat-square&logo=C" width="50" height="45"/></a> 
+ 
  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="45"/> 
  <a href="(https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="45"/> 
  
 I am learning :
  </p> <a href="https://opencv.org/" target="_blank"> <img src=https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg width="80" height="55"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"          alt="python" width="50" height="45"/> </a>  <!--    ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C) -->
- <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="50" height="50"/> </a>  <!--    ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C) -->
+ 
 
 
  
